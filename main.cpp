@@ -11,7 +11,7 @@ char edge;
   cout<<"What character do you want to know about?\n";
   cin>>edge;
 
-    if(edge>='A' && edge<='z')
+    if(edge>='A' && edge<='Z')
     {
 
   //when user's entry is between A-Z...
